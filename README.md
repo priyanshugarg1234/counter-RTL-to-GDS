@@ -83,7 +83,7 @@ The following waveform shows the functional verification of the Counter design u
 ## 📷 Physical Design Layout
 
 <p align="center">
-  <img src="Screenshots/layout.png" width="850"/>
+  <img src=""C:\Users\Priyanshu Garg\OneDrive\Pictures\Screenshots\COUNTER_LAYOUT.png"" width="850"/>
 </p>
 
 ### Backend Flow Completed
