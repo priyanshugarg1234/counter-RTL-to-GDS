@@ -63,7 +63,7 @@ This project demonstrates the complete **RTL-to-GDSII implementation** of a digi
 The following waveform shows the functional verification of the Counter design using Cadence SimVision.
 
 <p align="center">
-  <img src="Screenshots/waveform_simulation.png" width="900"/>
+  <img src="waveform_counter_syno.png" width="900"/>
 </p>
 
 ### Signals
